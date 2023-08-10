@@ -23,3 +23,8 @@ OUTPUT :9 External link
 
 ![image](https://github.com/komalgoswami777/Html_tasks/assets/105383044/476fdc49-a885-4166-9097-d1da59b3b87b)
 
+OUTPUT :10 FAQ Page
+
+![Screenshot 2023-08-10 181230](https://github.com/komalgoswami777/Html_tasks/assets/105383044/0fac5ce1-af03-453f-b6ac-55c677822975)
+
+
