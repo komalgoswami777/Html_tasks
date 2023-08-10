@@ -27,4 +27,12 @@ OUTPUT :10 FAQ Page
 
 ![Screenshot 2023-08-10 181230](https://github.com/komalgoswami777/Html_tasks/assets/105383044/0fac5ce1-af03-453f-b6ac-55c677822975)
 
+OUTPUT :11 Email Validation
 
+-----Valid Email------
+
+![image](https://github.com/komalgoswami777/Html_tasks/assets/105383044/aa07e7b1-3440-4ce1-ab2c-565c2ac2fd0d)
+
+-----Invalid Email------
+
+![image](https://github.com/komalgoswami777/Html_tasks/assets/105383044/138c29a2-0ccb-4047-8a8d-e99f7958118c)
