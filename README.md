@@ -36,3 +36,8 @@ OUTPUT :11 Email Validation
 -----Invalid Email------
 
 ![image](https://github.com/komalgoswami777/Html_tasks/assets/105383044/138c29a2-0ccb-4047-8a8d-e99f7958118c)
+
+OUTPUT :12 Embedding Google map
+
+![Screenshot 2023-08-10 190428](https://github.com/komalgoswami777/Html_tasks/assets/105383044/941fbb9c-2768-497c-b118-7f20a543a136)
+
