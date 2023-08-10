@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Form</title>
+    <link rel="icon" type="image/x-icon" href="logo.jpg">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300&display=swap');
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            background-color: #24252A;
+        }
+        h1,h3{
+            color: #ecf0f1;
+        }
+        input,label,button,select{
+            font-family: 'Poppins', sans-serif;
+            font-weight: 500;
+            font-size: 16px;
+            color: #ecf0f1;
+            text-decoration: none;
+        }
+        table,th,td{
+                  border: 1px solid white;
+                  border-collapse: collapse;
+                  padding: 6px;
+                  text-align: center;
+        }
+        button{
+        padding: 9px 25px;
+        background-color: rgba(0,136, 169, 1);
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        transition: all 0.3s ease 0s;
+        margin-top: 10px;
+        }
+        </style>
+</head>
+<body>
+
+    <center><h1>Form Creation</h1><hr><br><br>
+        <table>
+        <form action="">
+              <tr>
+                <td><label for="name">Enter Your Name :</label></td>
+                <td><input type="text" name="name"><br></td>
+                </tr>
+                <tr>
+                <td> <label for="name">Enter Your Email id :</label></td>
+                <td><input type="text" name="name"><br></td>
+              </tr>
+              <tr>
+               <td><label for="name">Enter Your Mobile No :</label></td>
+               <td><input type="text" name="name"><br></td>
+               </tr>
+               <tr>
+               <td><label for="state">Select Your State :</label></td>
+               <td><select name="State" id="">
+                    <option value="">Gujarat</option>
+                    <option value="">Rajsthan</option>
+                    <option value="">Madhya Pradesh</option>
+              </select></td>
+              </tr>
+              <tr>
+
+              <td><label for="state">Choose Your Gender :</label></td>
+              <td><input type="radio" name="" id="" value="Male"><label>Male</label>
+              <input type="radio" value="Female"><label>Female</label>
+              <input type="radio"><label >not to say</label></td>
+              </tr>
+            
+            </table>
+              <a href="#" class="cta"><button>Submit</button></a>
+        </form></center><br>
+        <hr>
+        <center>
+        <h1>Image Display</h1><br>
+        <img src="adiyogi.jpg" alt="adiyogi" height="150"><hr><br>
+        <h3>The alt attribute provides alternative information for an image if a user for some reason cannot view it </h3>
+        <img src="adiyogi2.jpg" alt="adiyogi" height="200">
+
+        </center>
+</body>
+</html>
