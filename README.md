@@ -41,6 +41,5 @@ OUTPUT :12 Embedding Google map
 
 ![Screenshot 2023-08-10 190428](https://github.com/komalgoswami777/Html_tasks/assets/105383044/941fbb9c-2768-497c-b118-7f20a543a136)
 
-![image](https://github.com/komalgoswami777/Html_tasks/assets/105383044/c0f1b77c-24f8-440c-8d7c-6c6b4d875b65)
 
 
